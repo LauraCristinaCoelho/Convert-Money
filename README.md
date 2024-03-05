@@ -8,3 +8,5 @@ Com o objetivo de fornecer uma ferramenta simples e eficaz para conversão de mo
 A aplicação permite aos usuários converter valores monetários entre diferentes moedas de forma rápida e fácil.
 <br>
 O mentor Rodolfo Mori, desafiou adicionar as moeda Libra e Bitcoin.</p>
+<br>
+site:  https://site-convert-money.netlify.app
